@@ -43,13 +43,18 @@ p {
   text-align: justify;
 }
 
+p::first-letter {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p::before {
+  content: "  "
+}
+
 h1 {
   text-transform: uppercase;
   font-weight: bold;
-
-  ::first-letter {
-    font-size: 20px;
-  }
 }
 
 h2 {
