@@ -43,9 +43,11 @@ p {
   text-align: justify;
 }
 
-.bodyText > p::first-letter {
-  font-size: 20px;
-  font-weight: bold;
+.bodyText > p {
+  p::first-letter {
+    font-size: 20px;
+    font-weight: bold;
+  }
 }
 
 h1 {
