@@ -47,4 +47,14 @@ h1 {
 h2 {
   text-align: left;
 }
+
+#navHead {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.sidebar-sticky li {
+  text-transform: uppercase;
+  font-size: 12px;
+}
 /*# sourceMappingURL=styles.css.map */
