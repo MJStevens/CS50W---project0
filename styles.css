@@ -9,18 +9,34 @@
   font-family: Segoe UI;
 }
 
-.infopage {
-  max-width: 50%;
-  margin-left: auto;
-  margin-right: auto;
+@media (min-width: 601px) {
+  .infopage {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
 }
 
-img {
-  width: 50%;
-  height: auto;
-  display: block;
-  margin-bottom: 10px;
-  margin-top: 10px;
+@media (max-width: 600px) {
+  .infopage {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
 }
 
 p {
