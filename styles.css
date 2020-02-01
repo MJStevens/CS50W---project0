@@ -48,7 +48,7 @@ h2 {
   text-align: left;
 }
 
-#navHead, .sidebar-sticky li {
+#navHead, .sidebar-sticky a {
   text-transform: uppercase;
   font-size: 12px;
   text-align: left;
@@ -56,9 +56,5 @@ h2 {
 
 #navHead {
   font-weight: bold;
-}
-
-#navHead::after {
-  content: "<hr>";
 }
 /*# sourceMappingURL=styles.css.map */

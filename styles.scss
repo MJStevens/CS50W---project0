@@ -64,11 +64,7 @@ h2 {
 }
 
 .sidebar-sticky {
-  li {
+  a {
     @extend %navBar;
   }
-}
-
-#navHead::after {
-  content: "<hr>"
 }
