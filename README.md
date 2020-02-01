@@ -1,10 +1,10 @@
 # CS50W---Project-0
 # Overview
-The website gives a basic overview of the information that is needed to be sucsessfull in growing Japanese black pines from seed. The information is broken down by the age of the trees, at present only year one has been completed. The content is a modified version of my submission for CS50X homepage assignment. 
+The website gives a basic overview of the information that is needed to be successful in growing Japanese black pines from seed. The information is broken down by the age of the trees, at present only year one has been completed. The content is a modified version of my submission for CS50X homepage assignment. 
 
 ## Content
 ### index.html
-Contains a brief description of the sites pourpose and links to its content.
+Contains a brief description of the sites purpose and links to its content.
 
 ### Getting Started.html
 Contains information needed before germinating any seeds.
@@ -22,7 +22,7 @@ Bootstrap CSS for the album style used in index.html.
 Bootstrap CSS for the sidebar used in the content pages.
 
 ### styles.css
-Custom CSS
+Custom CSS. Some of it is horrible but the requirements had to be met.
 
 ### Images folder
 Contains images used in the website. Images were sourced from a variety of other websites covering the same topic.
