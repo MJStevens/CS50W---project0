@@ -46,10 +46,7 @@ p {
 p::first-letter {
   font-size: 20px;
   font-weight: bold;
-}
-
-p::before {
-  content: "  "
+  text-indent: 10px;
 }
 
 h1 {
