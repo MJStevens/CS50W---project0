@@ -43,7 +43,7 @@ p {
 }
 
 .bodyText > p {
-  p::first-letter {
+  ::first-letter {
     font-size: 20px;
     font-weight: bold;
   }
